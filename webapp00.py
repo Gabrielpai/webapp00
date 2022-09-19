@@ -13,5 +13,5 @@ st.header("tem q fazer automação")
 st.subheader("res.Mat. Melhor materia")
 
 # Use st.write("") para adicionar um texto ao seu Web app
-st.write("o único curso q vc odeia e ama ao mesmo tempo ")
+st.write("o curso q vc odeia e ama ao mesmo tempo ")
 
